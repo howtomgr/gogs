@@ -1,0 +1,62 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.662796",
+  "default_ports": [
+    22,
+    80,
+    443,
+    3000
+  ],
+  "dependencies": [],
+  "description": "gogs is a free and open-source self-hosted Git service. Gogs provides a painless self-hosted Git service written in Go",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/gogs",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/gogs",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.662816",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "gogs",
+  "repository_url": "https://github.com/howtomgr/gogs",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "gogs Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/gogs"
+}
